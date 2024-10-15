@@ -36,26 +36,28 @@ public class Program
 
     public static void BoxBreathing()
     {
-        Console.WriteLine("Inhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Exhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Inhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Exhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Inhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Exhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Inhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Exhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Inhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
-        Console.WriteLine("Exhale for 4 seconds.");
-        Console.WriteLine("Hold breath for 4 seconds.");
+int duration =(6);
+
+        Console.WriteLine("Inhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Exhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Inhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Exhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Inhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Exhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Inhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Exhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Inhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
+        Console.WriteLine("Exhale for "+ duration +" seconds.");
+        Console.WriteLine("Hold breath for "+ duration +" seconds.");
     }
 
     public static void Hypotheticals()
